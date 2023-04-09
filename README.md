@@ -22,13 +22,13 @@
 
 ## How works:
 
-It’s a complete REST API backend, that saves personal data like email and password, and sends a confirmation email using a unique generated token, that expires in 15 minutes.
+It’s a complete REST API backend, that saves personal data, like email and password, and sends a confirmation email using a unique generated token, that expires in 15 minutes.
 
 ---
 
 # How to use:
 
-First you make a registration using a normal request:
+First, you do a registration using a normal request:
 
 ## Requesting
 
