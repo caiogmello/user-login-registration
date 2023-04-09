@@ -53,7 +53,7 @@ $ npm install -g maildev
 $ maildev
 ```
 
-Then, open the MailDev address: “”[http://0.0.0.0:1080/#/](http://0.0.0.0:1080/#/)
+Then, open the MailDev address: “[http://0.0.0.0:1080/#/](http://0.0.0.0:1080/#/)"
 
 A new confirmation email will be there:
 
